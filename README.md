@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sreechand05
+- 👀 I’m interested in Competitive Programming, Novels, Sports.
+- 🌱 I’m currently learning Web Dev and Machine Learning.
